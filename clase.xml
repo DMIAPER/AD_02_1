@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curso xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="clase.xsd">
+<profesor>
+	<nombre>Manuel Sanchez</nombre>
+	<asignatura>Acceso a Datos</asignatura>
+	<especialidad>Ingeniaria de Sistemas</especialidad>
+	<curso>AD</curso>
+	<modalidad>Avanza</modalidad>
+</profesor>
+<comentario>Alumnos</comentario>
+<alumnos>
+	<alumno>
+		<nombreAlumno>Diogenes Miaja</nombreAlumno>
+		<edad>32</edad>
+		<direccion>C/ Alamo 23</direccion>
+		<comentario>alumno1</comentario>
+		<telefono>655756327</telefono>
+	</alumno>
+	<alumno>
+		<nombreAlumno>M. Carmen Rosas</nombreAlumno>
+		<edad>33</edad>
+		<direccion>C/ Extremadura 26</direccion>
+		<comentario>Alumno2</comentario>
+		<telefono>630487415</telefono>
+	</alumno>
+	<alumno>
+		<nombreAlumno>Jose Martinez</nombreAlumno>
+		<edad>30</edad>
+		<direccion>C/ Alberche 63</direccion>
+		<comentario>Alumno3</comentario>
+		<telefono>657858596</telefono>
+	</alumno>
+</alumnos>
+</curso>
